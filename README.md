@@ -17,11 +17,11 @@ This project represents my first foray into Java programming, with a focus on ap
 
 ### Installation
 1. Clone the repository to your local machine:
-```
-bash git clone
+```bash
+git clone https://github.com/fsher1282/Java-Bank-Account
 ```
 2. Navigate to the project directory:
-``` bash
+```bash
 cd JavaBankingApplication
 ```
 
